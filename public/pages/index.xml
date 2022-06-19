@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on www.kobinabentum.nft</title>
+    <link>https://kobinabentum.nft/pages/</link>
+    <description>Recent content in Pages on www.kobinabentum.nft</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://kobinabentum.nft/pages/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://kobinabentum.nft/pages/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kobinabentum.nft/pages/about/</guid>
+      <description>Kobina Bentum here - an engineer, designer, digital maker and problem-solver My curiousity has helped me pick up quite a number of skills. Even though I do not really consider myself an expert in any one thing, I do admit that I have a lot of intermediate-level skills, that can easily make you believe otherwise.
+My approach is simple - find a goal or objective and try to learn all the skills you need for that particular objective to come alive.</description>
+    </item>
+    
+  </channel>
+</rss>
